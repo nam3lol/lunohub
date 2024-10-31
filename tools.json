@@ -2,19 +2,49 @@
     {
         "GameName": "MW3",
         "ToolName": "Silent Chair",
-        "ToolImage": "https://raw.githubusercontent.com/nam3lol/lunohub/main/Images/BO6SilentChair.png",
+        "ToolImage": "https://raw.githubusercontent.com/nam3lol/lunohub/main/Images/MW3SilentChair.png",
         "ToolLink": "https://cdn.discordapp.com/attachments/1292182520598888449/1301309475487223928/u237cgatAh2.exe?ex=67240264&is=6722b0e4&hm=c99627e095ea06be7a1ba8366acfd269037047c5e0e7a04d57b88a4668b5f5c9&"
     },
     {
         "GameName": "MW3",
         "ToolName": "Unlocker",
-        "ToolImage": "https://raw.githubusercontent.com/nam3lol/lunohub/main/Images/Unlocker.png",
+        "ToolImage": "https://raw.githubusercontent.com/nam3lol/lunohub/main/Images/MW3Unlocker.png",
+        "ToolLink": "https://cdn.discordapp.com/attachments/1283503485429616662/1283503811163459666/nRi28Wtqb1.exe?ex=67252692&is=6723d512&hm=9e52f03dc2228b113b3e38618675102d7bbda59f2808081e0ddbaf9c15bb1692&"
+    },
+    {
+        "GameName": "MW3",
+        "ToolName": "Zenith Chair",
+        "ToolImage": "https://raw.githubusercontent.com/nam3lol/lunohub/main/Images/MW3ZenithChair.png",
+        "ToolLink": "https://cdn.discordapp.com/attachments/1296586075031998584/1296587055157088276/Zenith.exe?ex=6725494b&is=6723f7cb&hm=b900b6a802223a18621e493d46d250cff2047286b5166f9214f369497e1a3539&"
+    },
+        {
+        "GameName": "MW3",
+        "ToolName": "Bubble ESP",
+        "ToolImage": "https://raw.githubusercontent.com/nam3lol/lunohub/main/Images/MW3BubbleESP.png",
+        "ToolLink": "https://cdn.discordapp.com/attachments/1292182520598888449/1301309475487223928/u237cgatAh2.exe?ex=67240264&is=6722b0e4&hm=c99627e095ea06be7a1ba8366acfd269037047c5e0e7a04d57b88a4668b5f5c9&"
+    },
+    {
+        "GameName": "MW3",
+        "ToolName": "Proton Chair",
+        "ToolImage": "https://raw.githubusercontent.com/nam3lol/lunohub/main/Images/MW3ProtonChair.png",
         "ToolLink": "https://cdn.discordapp.com/attachments/1292182520598888449/1301309475487223928/unlocker.exe"
     },
     {
         "GameName": "MW3",
+        "ToolName": "Loud Chair",
+        "ToolImage": "https://raw.githubusercontent.com/nam3lol/lunohub/main/Images/MW3LoudChair.png",
+        "ToolLink": "https://cdn.discordapp.com/attachments/1295859743960727572/1298194884884434995/ldr_km8RW3wI.exe?ex=672533f3&is=6723e273&hm=685603c42994a8938bddb168ef40dedfb8909c7bd4d459407987443e4d1cc32a&"
+    },
+        {
+        "GameName": "BO6",
         "ToolName": "Unlocker",
-        "ToolImage": "https://raw.githubusercontent.com/nam3lol/lunohub/main/Images/Unlocker.png",
+        "ToolImage": "https://raw.githubusercontent.com/nam3lol/lunohub/main/Images/BO6Unlocker.png",
+        "ToolLink": "https://cdn.discordapp.com/attachments/1292182520598888449/1301309475487223928/unlocker.exe"
+    },
+        {
+        "GameName": "BO6",
+        "ToolName": "Silent Chair",
+        "ToolImage": "https://raw.githubusercontent.com/nam3lol/lunohub/main/Images/BO6SilentChair.png",
         "ToolLink": "https://cdn.discordapp.com/attachments/1292182520598888449/1301309475487223928/unlocker.exe"
     }
 ]
