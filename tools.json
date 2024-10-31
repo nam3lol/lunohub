@@ -1,0 +1,20 @@
+[
+    {
+        "GameName": "MW3",
+        "ToolName": "Silent Chair",
+        "ToolImage": "https://raw.githubusercontent.com/nam3lol/lunohub/main/Images/SilentChair.png",
+        "ToolLink": "https://cdn.discordapp.com/attachments/1292182520598888449/1301309475487223928/u237cgatAh2.exe?ex=67240264&is=6722b0e4&hm=c99627e095ea06be7a1ba8366acfd269037047c5e0e7a04d57b88a4668b5f5c9&"
+    },
+    {
+        "GameName": "BO6",
+        "ToolName": "Silent Chair",
+        "ToolImage": "https://raw.githubusercontent.com/nam3lol/lunohub/main/Images/SilentChairBO6.png",
+        "ToolLink": "https://cdn.discordapp.com/attachments/1292182520598888449/1301309475487223928/bo6tool.exe"
+    },
+    {
+        "GameName": "MW3",
+        "ToolName": "Unlocker",
+        "ToolImage": "https://raw.githubusercontent.com/nam3lol/lunohub/main/Images/Unlocker.png",
+        "ToolLink": "https://cdn.discordapp.com/attachments/1292182520598888449/1301309475487223928/unlocker.exe"
+    }
+]
